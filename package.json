@@ -11,8 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/node": "^11.11.0",
     "env-create": "^1.0.3",
-    "gsweet": "^1.0.0"
+    "gsweet": "^1.0.9"
   },
   "devDependencies": {
     "eslint": "^5.15.1"
