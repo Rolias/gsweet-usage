@@ -6,12 +6,13 @@
   "main": "index.js",
   "scripts": {
     "start": " node main.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint *.js  --color"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^11.11.0",
+    "@types/node": "^11.11.1",
     "env-create": "^1.0.3",
     "gsweet": "^1.0.9"
   },
