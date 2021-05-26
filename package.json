@@ -14,7 +14,7 @@
   "dependencies": {
     "@types/node": "^11.11.1",
     "env-create": "^1.0.3",
-    "gsweet": "^1.0.9"
+    "gsweet": "2.0.1-beta.17"
   },
   "devDependencies": {
     "eslint": "^5.15.1"
